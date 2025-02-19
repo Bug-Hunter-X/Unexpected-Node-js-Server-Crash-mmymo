@@ -1,0 +1,1 @@
+This repository contains a Node.js program that demonstrates an uncommon error causing unexpected server crashes without providing any error messages. The bug is related to unhandled exceptions within asynchronous operations.  The solution provides a method to handle these exceptions properly and prevent the server from crashing.
